@@ -1,0 +1,10 @@
+irdb:
+  db: false
+  host: null
+  is_remote: true
+  passwd: null
+  port: 34
+  type: postgres
+  user: 34.53
+key3: value3
+sdf: null
